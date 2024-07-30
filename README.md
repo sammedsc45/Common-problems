@@ -7,7 +7,6 @@ Welcome to the **Common Coding Problems** repository! This collection is designe
 - [About](#about)
 - [Features](#features)
 - [How to Use](#how-to-use)
-- [Problem List](#problem-list)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
